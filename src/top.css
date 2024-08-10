@@ -1,0 +1,27 @@
+.rw{
+    background-color:rgb(23, 42, 58) ;
+    height:130px;
+    /* box-shadow: 5px 5px 5px 6px black; */
+    
+
+}
+
+.dt{
+    font-size: 30px;
+    color:rgb(88, 249, 255)
+
+}
+.tx{
+    color:rgb(41, 100, 119);
+    font-size:20px;
+}
+.hd{
+    color:rgb(88, 249, 255);
+    font-size:60px;
+    margin-top:20px;
+    margin-left: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.lg{
+    float: right;
+}
